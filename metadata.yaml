@@ -1,0 +1,44 @@
+_repo: The-Twin-Ventriloquistsor-Nimble-Ike-and-Jack-the-Juggler_43765
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43765-h/images/coverlarge.jpg
+creator:
+  author:
+    agent_name: Old Sleuth
+    aliases:
+    - Sleuth, Old
+    - Pastor, Tony
+    - Halsey, Harlan Page
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1747'
+    url: http://www.gutenberg.org/2009/agents/1747
+description: ''
+gutenberg_issued: '2013-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Misers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Dime novels'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Charity -- Juvenile fiction'
+- !lcsh 'Ventriloquists -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Diligence -- Juvenile fiction'
+title: "The Twin Ventriloquists; or, Nimble Ike and Jack the Juggler\r\nA Tale of\
+  \ Strategy and Jugglery"
+url: http://www.gutenberg.org/ebooks/43765
