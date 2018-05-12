@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '1747'
     url: http://www.gutenberg.org/2009/agents/1747
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43765#The-Twin-Ventriloquistsor-Nimble-Ike-and-Jack-the-Juggler
 gutenberg_issued: '2013-09-18'
 gutenberg_type: Text
 identifiers:
